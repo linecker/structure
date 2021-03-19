@@ -3,6 +3,8 @@ Like paint for log files.
 
 Somewhat similar to https://github.com/linecker/alps.
 
+https://wiki.c2.com/?AlternativesToRegularExpressions
+
 ## Use case examples
 
 * Line: split('\n')
